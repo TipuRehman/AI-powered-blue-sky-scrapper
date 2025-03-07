@@ -8,9 +8,9 @@ This repository contains an AI-powered web scraping tool that extracts public in
 
 # Web Scraping for Bluesky Posts
 
-Extracts post title, description, and metadata from a given Bluesky post URL.
+- Extracts post title, description, and metadata from a given Bluesky post URL.
 
-Uses requests and BeautifulSoup4 for efficient HTML parsing.
+- Uses requests and BeautifulSoup4 for efficient HTML parsing.
 
 # User Profile Data Extraction
 
